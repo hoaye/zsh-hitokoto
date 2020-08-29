@@ -39,6 +39,11 @@ oh my zsh plugin for https://hitokoto.cn
 3. Start a new terminal session.
 
 
+### Example
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gi7oc4n2c5j30l6098aak.jpg)
+
+
 
 
 
